@@ -3,7 +3,10 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=0A8780&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Geologist;Hydrogeology;Geochemistry;Geophysicist;Statistics;Blockchain;)](https://git.io/typing-svg)
 
 # About Me:
-## FullStack Software Engineer & Geologist <br>
+## FullStack Software Engineer & Geologist<br>
+
+FullStack Engineer at Tawii <br>
+
 DevOps, CI/CD, UX/UI, Stratigraphy Geophysics, Structural Engineering, Seismology, Hydrogeology, Statistics & Artificial Intelligence
 
 Currently I'm developing [NexGeo](https://NexGeo/# "NexGeo"): A Geoscience platform connecting millions of geophysicists, engineers, and geochemists with potential employer farms around the globe.
