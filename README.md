@@ -7,10 +7,9 @@
 
 ## FullStack Engineer at Tawii <br>
 
-DevOps, CI/CD, UX/UI, Stratigraphy Geophysics, Structural Engineering, Seismology, Hydrogeology, Statistics & Artificial Intelligence
+DevOps: CI/CD, UX/UI, Stratigraphy Geophysics, Structural Engineering, Seismology, Hydrogeology, Statistics & Artificial Intelligence
 
 Currently I'm developing [NexGeo](https://NexGeo/# "NexGeo"): A Geoscience platform connecting millions of geophysicists, engineers, and geochemists with potential employer farms around the globe.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bryan_asega/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asega-bryan-ba7781224) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AsegaBryan) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?logo=globe)](https://bryanasegaportfolio-website.vercel.app)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@almasibryan7) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bryan_Asega_Almasi)
