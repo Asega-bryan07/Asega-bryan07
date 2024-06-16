@@ -5,7 +5,7 @@
 # About Me:
 ## FullStack Software Engineer & Geologist<br>
 
-## FullStack Engineer at Akroft Technologies <br>
+## FullStack Engineer at Tawii <br>
 
 DevOps: CI/CD, UX/UI, Stratigraphy Geophysics, Structural Engineering, Seismology, Hydrogeology, Statistics & Artificial Intelligence
 
