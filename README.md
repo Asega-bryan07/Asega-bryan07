@@ -1,6 +1,6 @@
 # ENG. BRYAN ASEGA
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=0A8780&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Artificial Intelligence;Geologist;Hydrogeology;Geochemistry;Geophysicist;Statistics;Blockchain;)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=0A8780&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Artificial+Intelligence;Geologist;Hydrogeology;Geochemistry;Geophysicist;Statistics;Blockchain;)](https://git.io/typing-svg)
 
 # About Me:
 ## FullStack Software Engineer & Geologist<br>
